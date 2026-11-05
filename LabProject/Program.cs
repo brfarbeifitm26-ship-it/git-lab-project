@@ -1,3 +1,3 @@
 using System;
 
-Console.WriteLine("Hello, Git!");
+Console.WriteLine("Hello from the second commit!");
